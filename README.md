@@ -14,6 +14,5 @@ Réfactoring d'un projet java pour la visualisation d'un fichier CSV de particip
 
 ![Test Image 1](https://github.com/SelmaDM/DesignPattern/blob/master/output1.png)
 
-
 ### Resultat 
 ![Test Image 1](https://github.com/SelmaDM/DesignPattern/blob/master/output2.png)
